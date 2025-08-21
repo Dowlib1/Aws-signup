@@ -22,7 +22,7 @@ This guide provides step-by-step instructions on how to create a free tier accou
 
 - An active email address  
 - A valid phone number for verification  
-- A valid credit card or debit card (no charges apply for free tier usage, but a temporary authorization charge may be applied for verification)  
+- A valid credit card or debit card (no charges apply for free tier usage, but a temporary authorization charge may be applied for verification.)  
 - Basic understanding of AWS services (optional but helpful)  
 
 ---
